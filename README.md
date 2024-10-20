@@ -62,7 +62,8 @@ eprojet-php/
 │   ├── images/                # Images des produits
 │   ├── add_to_cart.php        # Script pour ajouter un produit au panier
 │   ├── cart.php               # Page du panier
-│   ├── checkout_coming_soon.html # Page annonçant l'arrivée prochaine du paiement
+│   ├── remove_from_cart.php   # Script pour supprimer un produit du panier
+│   ├── checkout.html          # Page annonçant l'arrivée prochaine du paiement
 │   ├── product.php            # Page des détails d'un produit
 │   ├── index.php              # Page principale affichant tous les produits
 └── view/                      # Fichiers de vue (templates HTML)
