@@ -31,12 +31,12 @@ Le site permet d'afficher une liste de produits, de consulter les détails de ch
 
 1. **Cloner le dépôt du projet** :
     ```bash
-    git clone https://github.com/ton-repo/ecommerce-php.git
+    git clone https://github.com/ton-repo/eprojet-php.git
     ```
 
 2. **Accéder au répertoire du projet** :
     ```bash
-    cd ecommerce-php
+    cd eprojet-php
     ```
 
 
@@ -44,13 +44,13 @@ Le site permet d'afficher une liste de produits, de consulter les détails de ch
     - Placer le projet dans le dossier `htdocs` (ou l’équivalent pour MAMP).
     - Démarrer le serveur local et accéder au projet à l’adresse suivante dans un navigateur :
       ```
-      http://localhost/ecommerce-php
+      http://localhost/eprojet-php
       ```
 
 ## Structure du projet
 
 ```bash
-ecommerce-php/
+eprojet-php/
 │
 ├── config/                    # Fichiers de configuration
 │   └── db.php                 # Fichier de connexion à la base de données
